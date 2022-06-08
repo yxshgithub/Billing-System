@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 01/Sep/2021 Time: 11:25 AM
+ Bill Number:   1183
+ Customer Name: Atul
+ Phone Number:  334264642
+======================================
+ Products		Qty		Price
+======================================
+ Aloo Tikki		 2		 80
+ French Fries		 2		 114
+ Chicken Wrap		 2		 408
+--------------------------------------
+ G.S.T Tax  :			   Rs. 108.36
+ Total Bill :			   Rs. 710.36
+--------------------------------------

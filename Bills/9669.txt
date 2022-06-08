@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 01/Sep/2021 Time: 11:25 AM
+ Bill Number:   9669
+ Customer Name: atul
+ Phone Number:  69696
+======================================
+ Products		Qty		Price
+======================================
+ Mc Veg		 2		 206
+ French Fries		 2		 114
+ Chicken Wrap		 2		 408
+--------------------------------------
+ G.S.T Tax  :			   Rs. 131.04
+ Total Bill :			   Rs. 859.04
+--------------------------------------

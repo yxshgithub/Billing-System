@@ -1,0 +1,15 @@
+	 Welcome to Mcdonald's
+
+ Date: 14/Aug/2021 Time: 15:40 PM
+ Bill Number:   1177
+ Customer Name: 3dsdsf
+ Phone Number:  324342
+======================================
+ Products		Qty		Price
+======================================
+ French Fries		 2		 114
+ Chicken Wrap		 2		 408
+--------------------------------------
+ G.S.T Tax  :			   Rs. 93.96
+ Total Bill :			   Rs. 615.96
+--------------------------------------

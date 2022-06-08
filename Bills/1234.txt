@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 13/Aug/2021 Time: 12:27 PM
+ Bill Number:   1234
+ Customer Name: swaraj
+ Phone Number:  4324654
+======================================
+ Products		Qty		Price
+======================================
+ Mc Veg		 2		 206
+ French Fries		 2		 114
+ Coke Float		 2		 164
+--------------------------------------
+ G.S.T Tax  :			   Rs. 87.12
+ Total Bill :			   Rs. 571.12
+--------------------------------------

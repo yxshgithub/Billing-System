@@ -1,0 +1,15 @@
+	 Welcome to Mcdonald's
+
+ Date: 31/Jul/2021 Time: 23:15 PM
+ Bill Number:   1171
+ Customer Name: swaraj
+ Phone Number:  876698876876
+======================================
+ Products		Qty		Price
+======================================
+ Chicken Wrap		 2		 408
+ Mc Non Veg		 2		 200
+--------------------------------------
+ G.S.T Tax  :			   Rs. 109.44
+ Total Bill :			   Rs. 717.44
+--------------------------------------

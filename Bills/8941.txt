@@ -1,0 +1,17 @@
+	 Welcome to Mcdonald's
+
+ Date: 01/Sep/2021 Time: 11:03 AM
+ Bill Number:   8941
+ Customer Name: swarag
+ Phone Number:  243432432
+======================================
+ Products		Qty		Price
+======================================
+ Mc Spicy Veg		 2		 326
+ Chicken Kebab		 2		 160
+ Veg Happy Meal		 2		 440
+ Chicken Strips		 2		 156
+--------------------------------------
+ G.S.T Tax  :			   Rs. 194.76
+ Total Bill :			   Rs. 1276.76
+--------------------------------------

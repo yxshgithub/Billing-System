@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 11/Aug/2021 Time: 20:55 PM
+ Bill Number:   6798
+ Customer Name: xyz
+ Phone Number:  12345678
+======================================
+ Products		Qty		Price
+======================================
+ Aloo Tikki		 2		 80
+ Mc Maharaja		 2		 408
+ Coke Float		 2		 164
+--------------------------------------
+ G.S.T Tax  :			   Rs. 117.36
+ Total Bill :			   Rs. 769.36
+--------------------------------------

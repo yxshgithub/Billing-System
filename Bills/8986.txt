@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 08/Aug/2021 Time: 18:54 PM
+ Bill Number:   8986
+ Customer Name: efdg
+ Phone Number:  353466
+======================================
+ Products		Qty		Price
+======================================
+ Mc Non Veg		 2		 200
+ Mc Supreme		 2		 270
+ Chicken Strips		 2		 156
+--------------------------------------
+ G.S.T Tax  :			   Rs. 112.68
+ Total Bill :			   Rs. 738.68
+--------------------------------------

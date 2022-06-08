@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 05/Aug/2021 Time: 00:05 AM
+ Bill Number:   7218
+ Customer Name: swaraj
+ Phone Number:  696969696
+======================================
+ Products		Qty		Price
+======================================
+ Aloo Tikki		 2		 80
+ Mc Veg		 2		 206
+ Mc Maharaja		 2		 408
+--------------------------------------
+ G.S.T Tax  :			   Rs. 124.92
+ Total Bill :			   Rs. 818.92
+--------------------------------------

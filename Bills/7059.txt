@@ -1,0 +1,15 @@
+	 Welcome to Mcdonald's
+
+ Date: 08/Aug/2021 Time: 18:15 PM
+ Bill Number:   7059
+ Customer Name: feidj
+ Phone Number:  869537907
+======================================
+ Products		Qty		Price
+======================================
+ Mc Maharaja		 2		 408
+ Mc Supreme		 3		 405
+--------------------------------------
+ G.S.T Tax  :			   Rs. 146.34
+ Total Bill :			   Rs. 959.34
+--------------------------------------

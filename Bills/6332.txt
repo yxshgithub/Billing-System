@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 05/Aug/2021 Time: 00:12 AM
+ Bill Number:   6332
+ Customer Name: swaraj
+ Phone Number:  246456246
+======================================
+ Products		Qty		Price
+======================================
+ Mc Non Veg		 2		 200
+ Chicken Kebab		 2		 160
+ Mc Supreme		 2		 270
+--------------------------------------
+ G.S.T Tax  :			   Rs. 113.4
+ Total Bill :			   Rs. 743.4
+--------------------------------------

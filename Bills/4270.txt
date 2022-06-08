@@ -1,0 +1,16 @@
+	 Welcome to Mcdonald's
+
+ Date: 31/Jul/2021 Time: 22:20 PM
+ Bill Number:   4270
+ Customer Name: swaraj
+ Phone Number:  5645365
+======================================
+ Products		Qty		Price
+======================================
+ Mc Veg		 2		 206
+ Coke Float		 2		 164
+ Mc Supreme		 2		 270
+--------------------------------------
+ G.S.T Tax  :			   Rs. 115.2
+ Total Bill :			   Rs. 755.2
+--------------------------------------
